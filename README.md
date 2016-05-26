@@ -4,7 +4,6 @@
 
 ```
 <Text style={{ fontFamily: 'Iowan Old Style' }}>Custom Font</Text>
-
 ```
 
 #### Android
