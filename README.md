@@ -12,6 +12,8 @@
 
 normal
 
+notoserif
+
 sans-serif
 
 sans-serif-light
@@ -22,9 +24,9 @@ sans-serif-condensed
 
 sans-serif-medium
 
-notoserif
-
 serif
+
+Roboto
 
 monospace
 
