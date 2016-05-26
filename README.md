@@ -16,592 +16,592 @@ monospace
 
 #### iOS:
 
-Copperplate
+Academy Engraved LET
 
- Copperplate-Light
+AcademyEngravedLetPlain
 
- Copperplate-Bold
+Al Nile
 
-Heiti SC
+AlNile-Bold
 
-Iowan Old Style
+American Typewriter
 
- IowanOldStyle-Italic
+AmericanTypewriter-Bold
 
- IowanOldStyle-Roman
+AmericanTypewriter-Condensed
 
- IowanOldStyle-BoldItalic
+AmericanTypewriter-CondensedBold
 
- IowanOldStyle-Bold
+AmericanTypewriter-CondensedLight
 
-Kohinoor Telugu
-
- KohinoorTelugu-Regular
-
- KohinoorTelugu-Medium
-
- KohinoorTelugu-Light
-
-Thonburi
-
- Thonburi-Bold
-
- Thonburi-Light
-
-Heiti TC
-
-Courier New
-
- CourierNewPS-BoldMT
-
- CourierNewPS-ItalicMT
-
- CourierNewPSMT
-
- CourierNewPS-BoldItalicMT
-
-Gill Sans
-
- GillSans-Italic
-
- GillSans-Bold
-
- GillSans-BoldItalic
-
- GillSans-LightItalic
-
- GillSans-Light
-
- GillSans-SemiBold
-
- GillSans-SemiBoldItalic
-
- GillSans-UltraBold
-
-Apple SD Gothic Neo
-
- AppleSDGothicNeo-Bold
-
- AppleSDGothicNeo-Thin
-
- AppleSDGothicNeo-UltraLight
-
- AppleSDGothicNeo-Regular
-
- AppleSDGothicNeo-Light
-
- AppleSDGothicNeo-Medium
-
- AppleSDGothicNeo-SemiBold
-
-Marker Felt
-
- MarkerFelt-Thin
-
- MarkerFelt-Wide
-
-Avenir Next Condensed
-
- AvenirNextCondensed-BoldItalic
-
- AvenirNextCondensed-Heavy
-
- AvenirNextCondensed-Medium
-
- AvenirNextCondensed-Regular
-
- AvenirNextCondensed-HeavyItalic
-
- AvenirNextCondensed-MediumItalic
-
- AvenirNextCondensed-Italic
-
- AvenirNextCondensed-UltraLightItalic
-
- AvenirNextCondensed-UltraLight
-
- AvenirNextCondensed-DemiBold
-
- AvenirNextCondensed-Bold
-
- AvenirNextCondensed-DemiBoldItalic
-
-Tamil Sangam MN
-
- TamilSangamMN-Bold
-
-Helvetica Neue
-
- HelveticaNeue-Italic
-
- HelveticaNeue-Bold
-
- HelveticaNeue-UltraLight
-
- HelveticaNeue-CondensedBlack
-
- HelveticaNeue-BoldItalic
-
- HelveticaNeue-CondensedBold
-
- HelveticaNeue-Medium
-
- HelveticaNeue-Light
-
- HelveticaNeue-Thin
-
- HelveticaNeue-ThinItalic
-
- HelveticaNeue-LightItalic
-
- HelveticaNeue-UltraLightItalic
-
- HelveticaNeue-MediumItalic
-
-Gurmukhi MN
-
- GurmukhiMN-Bold
-
-Times New Roman
-
- TimesNewRomanPSMT
-
- TimesNewRomanPS-BoldItalicMT
-
- TimesNewRomanPS-ItalicMT
-
- TimesNewRomanPS-BoldMT
-
-Georgia
-
- Georgia-BoldItalic
-
- Georgia-Italic
-
- Georgia-Bold
+AmericanTypewriter-Light
 
 Apple Color Emoji
 
- AppleColorEmoji
+Apple SD Gothic Neo
 
-Arial Rounded MT Bold
+AppleColorEmoji
 
- ArialRoundedMTBold
+AppleSDGothicNeo-Bold
 
-Kailasa
+AppleSDGothicNeo-Light
 
- Kailasa-Bold
+AppleSDGothicNeo-Medium
 
-Kohinoor Devanagari
+AppleSDGothicNeo-Regular
 
- KohinoorDevanagari-Light
+AppleSDGothicNeo-SemiBold
 
- KohinoorDevanagari-Regular
+AppleSDGothicNeo-Thin
 
- KohinoorDevanagari-Semibold
-
-Kohinoor Bangla
-
- KohinoorBangla-Semibold
-
- KohinoorBangla-Regular
-
- KohinoorBangla-Light
-
-Chalkboard SE
-
- ChalkboardSE-Bold
-
- ChalkboardSE-Light
-
- ChalkboardSE-Regular
-
-Sinhala Sangam MN
-
- SinhalaSangamMN-Bold
-
- SinhalaSangamMN
-
-PingFang TC
-
- PingFangTC-Medium
-
- PingFangTC-Regular
-
- PingFangTC-Light
-
- PingFangTC-Ultralight
-
- PingFangTC-Semibold
-
- PingFangTC-Thin
-
-Gujarati Sangam MN
-
- GujaratiSangamMN-Bold
-
- GujaratiSangamMN
-
-Damascus
-
- DamascusLight
-
- DamascusBold
-
- DamascusSemiBold
-
- DamascusMedium
-
-Noteworthy
-
- Noteworthy-Light
-
- Noteworthy-Bold
-
-Geeza Pro
-
- GeezaPro-Bold
-
-Avenir
-
- Avenir-Medium
-
- Avenir-HeavyOblique
-
- Avenir-Book
-
- Avenir-Light
-
- Avenir-Roman
-
- Avenir-BookOblique
-
- Avenir-Black
-
- Avenir-MediumOblique
-
- Avenir-BlackOblique
-
- Avenir-Heavy
-
- Avenir-LightOblique
-
- Avenir-Oblique
-
-Academy Engraved LET
-
- AcademyEngravedLetPlain
-
-Mishafi
-
- DiwanMishafi
-
-Futura
-
- Futura-CondensedMedium
-
- Futura-CondensedExtraBold
-
- Futura-Medium
-
- Futura-MediumItalic
-
-Farah
-
-Kannada Sangam MN
-
- KannadaSangamMN
-
- KannadaSangamMN-Bold
-
-Arial Hebrew
-
- ArialHebrew-Bold
-
- ArialHebrew-Light
-
- ArialHebrew
+AppleSDGothicNeo-UltraLight
 
 Arial
 
- ArialMT
+Arial Hebrew
 
- Arial-BoldItalicMT
+Arial Rounded MT Bold
 
- Arial-BoldMT
+Arial-BoldItalicMT
 
- Arial-ItalicMT
+Arial-BoldMT
 
-Party LET
+Arial-ItalicMT
 
- PartyLetPlain
+ArialHebrew
+
+ArialHebrew-Bold
+
+ArialHebrew-Light
+
+ArialMT
+
+ArialRoundedMTBold
+
+Avenir
+
+Avenir Next
+
+Avenir Next Condensed
+
+Avenir-Black
+
+Avenir-BlackOblique
+
+Avenir-Book
+
+Avenir-BookOblique
+
+Avenir-Heavy
+
+Avenir-HeavyOblique
+
+Avenir-Light
+
+Avenir-LightOblique
+
+Avenir-Medium
+
+Avenir-MediumOblique
+
+Avenir-Oblique
+
+Avenir-Roman
+
+AvenirNext-Bold
+
+AvenirNext-BoldItalic
+
+AvenirNext-DemiBold
+
+AvenirNext-DemiBoldItalic
+
+AvenirNext-Heavy
+
+AvenirNext-HeavyItalic
+
+AvenirNext-Italic
+
+AvenirNext-Medium
+
+AvenirNext-MediumItalic
+
+AvenirNext-Regular
+
+AvenirNext-UltraLight
+
+AvenirNext-UltraLightItalic
+
+AvenirNextCondensed-Bold
+
+AvenirNextCondensed-BoldItalic
+
+AvenirNextCondensed-DemiBold
+
+AvenirNextCondensed-DemiBoldItalic
+
+AvenirNextCondensed-Heavy
+
+AvenirNextCondensed-HeavyItalic
+
+AvenirNextCondensed-Italic
+
+AvenirNextCondensed-Medium
+
+AvenirNextCondensed-MediumItalic
+
+AvenirNextCondensed-Regular
+
+AvenirNextCondensed-UltraLight
+
+AvenirNextCondensed-UltraLightItalic
+
+Bangla Sangam MN
+
+Baskerville
+
+Baskerville-Bold
+
+Baskerville-BoldItalic
+
+Baskerville-Italic
+
+Baskerville-SemiBold
+
+Baskerville-SemiBoldItalic
+
+Bodoni 72
+
+Bodoni 72 Oldstyle
+
+Bodoni 72 Smallcaps
+
+Bodoni Ornaments
+
+BodoniOrnamentsITCTT
+
+BodoniSvtyTwoITCTT-Bold
+
+BodoniSvtyTwoITCTT-Book
+
+BodoniSvtyTwoITCTT-BookIta
+
+BodoniSvtyTwoOSITCTT-Bold
+
+BodoniSvtyTwoOSITCTT-Book
+
+BodoniSvtyTwoSCITCTT-Book
+
+Bradley Hand
+
+BradleyHandITCTT-Bold
+
+Chalkboard SE
+
+ChalkboardSE-Bold
+
+ChalkboardSE-Light
+
+ChalkboardSE-Regular
 
 Chalkduster
 
- Chalkduster
+Chalkduster
+
+Cochin
+
+Cochin-Bold
+
+Cochin-BoldItalic
+
+Cochin-Italic
+
+Copperplate
+
+Copperplate-Bold
+
+Copperplate-Light
+
+Courier
+
+Courier New
+
+Courier-Bold
+
+Courier-BoldOblique
+
+Courier-Oblique
+
+CourierNewPS-BoldItalicMT
+
+CourierNewPS-BoldMT
+
+CourierNewPS-ItalicMT
+
+CourierNewPSMT
+
+Damascus
+
+DamascusBold
+
+DamascusLight
+
+DamascusMedium
+
+DamascusSemiBold
+
+Devanagari Sangam MN
+
+DevanagariSangamMN
+
+DevanagariSangamMN-Bold
+
+Didot
+
+Didot-Bold
+
+Didot-Italic
+
+DiwanMishafi
+
+Euphemia UCAS
+
+EuphemiaUCAS-Bold
+
+EuphemiaUCAS-Italic
+
+Farah
+
+Futura
+
+Futura-CondensedExtraBold
+
+Futura-CondensedMedium
+
+Futura-Medium
+
+Futura-MediumItalic
+
+Geeza Pro
+
+GeezaPro-Bold
+
+Georgia
+
+Georgia-Bold
+
+Georgia-BoldItalic
+
+Georgia-Italic
+
+Gill Sans
+
+GillSans-Bold
+
+GillSans-BoldItalic
+
+GillSans-Italic
+
+GillSans-Light
+
+GillSans-LightItalic
+
+GillSans-SemiBold
+
+GillSans-SemiBoldItalic
+
+GillSans-UltraBold
+
+Gujarati Sangam MN
+
+GujaratiSangamMN
+
+GujaratiSangamMN-Bold
+
+Gurmukhi MN
+
+GurmukhiMN-Bold
+
+Heiti SC
+
+Heiti TC
+
+Helvetica
+
+Helvetica Neue
+
+Helvetica-Bold
+
+Helvetica-BoldOblique
+
+Helvetica-Light
+
+Helvetica-LightOblique
+
+Helvetica-Oblique
+
+HelveticaNeue-Bold
+
+HelveticaNeue-BoldItalic
+
+HelveticaNeue-CondensedBlack
+
+HelveticaNeue-CondensedBold
+
+HelveticaNeue-Italic
+
+HelveticaNeue-Light
+
+HelveticaNeue-LightItalic
+
+HelveticaNeue-Medium
+
+HelveticaNeue-MediumItalic
+
+HelveticaNeue-Thin
+
+HelveticaNeue-ThinItalic
+
+HelveticaNeue-UltraLight
+
+HelveticaNeue-UltraLightItalic
+
+Hiragino Mincho ProN
+
+Hiragino Sans
+
+HiraginoSans-W3
+
+HiraginoSans-W6
+
+HiraMinProN-W3
+
+HiraMinProN-W6
 
 Hoefler Text
 
- HoeflerText-Italic
+HoeflerText-Black
 
- HoeflerText-Regular
+HoeflerText-BlackItalic
 
- HoeflerText-Black
+HoeflerText-Italic
 
- HoeflerText-BlackItalic
+HoeflerText-Regular
 
-Optima
+Iowan Old Style
 
- Optima-Regular
+IowanOldStyle-Bold
 
- Optima-ExtraBlack
+IowanOldStyle-BoldItalic
 
- Optima-BoldItalic
+IowanOldStyle-Italic
 
- Optima-Italic
+IowanOldStyle-Roman
 
- Optima-Bold
+Kailasa
 
-Palatino
+Kailasa-Bold
 
- Palatino-Bold
+Kannada Sangam MN
 
- Palatino-Roman
+KannadaSangamMN
 
- Palatino-BoldItalic
+KannadaSangamMN-Bold
 
- Palatino-Italic
+Khmer Sangam MN
+
+Kohinoor Bangla
+
+Kohinoor Devanagari
+
+Kohinoor Telugu
+
+KohinoorBangla-Light
+
+KohinoorBangla-Regular
+
+KohinoorBangla-Semibold
+
+KohinoorDevanagari-Light
+
+KohinoorDevanagari-Regular
+
+KohinoorDevanagari-Semibold
+
+KohinoorTelugu-Light
+
+KohinoorTelugu-Medium
+
+KohinoorTelugu-Regular
 
 Lao Sangam MN
 
 Malayalam Sangam MN
 
- MalayalamSangamMN-Bold
+MalayalamSangamMN
 
- MalayalamSangamMN
+MalayalamSangamMN-Bold
 
-Al Nile
+Marker Felt
 
- AlNile-Bold
+MarkerFelt-Thin
 
-Bradley Hand
-
- BradleyHandITCTT-Bold
-
-PingFang HK
-
- PingFangHK-Ultralight
-
- PingFangHK-Semibold
-
- PingFangHK-Thin
-
- PingFangHK-Light
-
- PingFangHK-Regular
-
- PingFangHK-Medium
-
-Trebuchet MS
-
- Trebuchet-BoldItalic
-
- TrebuchetMS-Bold
-
- TrebuchetMS-Italic
-
-Helvetica
-
- Helvetica-Bold
-
- Helvetica-LightOblique
-
- Helvetica-Oblique
-
- Helvetica-BoldOblique
-
- Helvetica-Light
-
-Courier
-
- Courier-BoldOblique
-
- Courier-Bold
-
- Courier-Oblique
-
-Cochin
-
- Cochin-Bold
-
- Cochin-Italic
-
- Cochin-BoldItalic
-
-Hiragino Mincho ProN
-
- HiraMinProN-W6
-
- HiraMinProN-W3
-
-Devanagari Sangam MN
-
- DevanagariSangamMN
-
- DevanagariSangamMN-Bold
-
-Oriya Sangam MN
-
- OriyaSangamMN
-
- OriyaSangamMN-Bold
-
-Snell Roundhand
-
- SnellRoundhand-Bold
-
- SnellRoundhand-Black
-
-Zapf Dingbats
-
- ZapfDingbatsITC
-
-Bodoni 72
-
- BodoniSvtyTwoITCTT-Bold
-
- BodoniSvtyTwoITCTT-Book
-
- BodoniSvtyTwoITCTT-BookIta
-
-Verdana
-
- Verdana-Italic
-
- Verdana-BoldItalic
-
- Verdana-Bold
-
-American Typewriter
-
- AmericanTypewriter-CondensedLight
-
- AmericanTypewriter-CondensedBold
-
- AmericanTypewriter-Light
-
- AmericanTypewriter-Bold
-
- AmericanTypewriter-Condensed
-
-Avenir Next
-
- AvenirNext-UltraLight
-
- AvenirNext-UltraLightItalic
-
- AvenirNext-Bold
-
- AvenirNext-BoldItalic
-
- AvenirNext-DemiBold
-
- AvenirNext-DemiBoldItalic
-
- AvenirNext-Medium
-
- AvenirNext-HeavyItalic
-
- AvenirNext-Heavy
-
- AvenirNext-Italic
-
- AvenirNext-Regular
-
- AvenirNext-MediumItalic
-
-Baskerville
-
- Baskerville-Italic
-
- Baskerville-SemiBold
-
- Baskerville-BoldItalic
-
- Baskerville-SemiBoldItalic
-
- Baskerville-Bold
-
-Khmer Sangam MN
-
-Didot
-
- Didot-Italic
-
- Didot-Bold
-
-Savoye LET
-
- SavoyeLetPlain
-
-Bodoni Ornaments
-
- BodoniOrnamentsITCTT
-
-Symbol
+MarkerFelt-Wide
 
 Menlo
 
- Menlo-Italic
+Menlo-Bold
 
- Menlo-Bold
+Menlo-BoldItalic
 
- Menlo-Regular
+Menlo-Italic
 
- Menlo-BoldItalic
+Menlo-Regular
 
-Bodoni 72 Smallcaps
+Mishafi
 
- BodoniSvtyTwoSCITCTT-Book
+Noteworthy
+
+Noteworthy-Bold
+
+Noteworthy-Light
+
+Optima
+
+Optima-Bold
+
+Optima-BoldItalic
+
+Optima-ExtraBlack
+
+Optima-Italic
+
+Optima-Regular
+
+Oriya Sangam MN
+
+OriyaSangamMN
+
+OriyaSangamMN-Bold
+
+Palatino
+
+Palatino-Bold
+
+Palatino-BoldItalic
+
+Palatino-Italic
+
+Palatino-Roman
 
 Papyrus
 
- Papyrus-Condensed
+Papyrus-Condensed
 
-Hiragino Sans
+Party LET
 
- HiraginoSans-W3
+PartyLetPlain
 
- HiraginoSans-W6
+PingFang HK
 
 PingFang SC
 
- PingFangSC-Ultralight
+PingFang TC
 
- PingFangSC-Regular
+PingFangHK-Light
 
- PingFangSC-Semibold
+PingFangHK-Medium
 
- PingFangSC-Thin
+PingFangHK-Regular
 
- PingFangSC-Light
+PingFangHK-Semibold
 
- PingFangSC-Medium
+PingFangHK-Thin
 
-Euphemia UCAS
+PingFangHK-Ultralight
 
- EuphemiaUCAS-Italic
+PingFangSC-Light
 
- EuphemiaUCAS-Bold
+PingFangSC-Medium
+
+PingFangSC-Regular
+
+PingFangSC-Semibold
+
+PingFangSC-Thin
+
+PingFangSC-Ultralight
+
+PingFangTC-Light
+
+PingFangTC-Medium
+
+PingFangTC-Regular
+
+PingFangTC-Semibold
+
+PingFangTC-Thin
+
+PingFangTC-Ultralight
+
+Savoye LET
+
+SavoyeLetPlain
+
+Sinhala Sangam MN
+
+SinhalaSangamMN
+
+SinhalaSangamMN-Bold
+
+Snell Roundhand
+
+SnellRoundhand-Black
+
+SnellRoundhand-Bold
+
+Symbol
+
+Tamil Sangam MN
+
+TamilSangamMN-Bold
 
 Telugu Sangam MN
 
-Bangla Sangam MN
+Thonburi
+
+Thonburi-Bold
+
+Thonburi-Light
+
+Times New Roman
+
+TimesNewRomanPS-BoldItalicMT
+
+TimesNewRomanPS-BoldMT
+
+TimesNewRomanPS-ItalicMT
+
+TimesNewRomanPSMT
+
+Trebuchet MS
+
+Trebuchet-BoldItalic
+
+TrebuchetMS-Bold
+
+TrebuchetMS-Italic
+
+Verdana
+
+Verdana-Bold
+
+Verdana-BoldItalic
+
+Verdana-Italic
+
+Zapf Dingbats
+
+ZapfDingbatsITC
 
 Zapfino
-
-Bodoni 72 Oldstyle
-
- BodoniSvtyTwoOSITCTT-Book
-
- BodoniSvtyTwoOSITCTT-Bold
