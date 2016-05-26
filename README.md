@@ -10,6 +10,18 @@
 
 normal
 
+sans-serif
+
+sans-serif-light
+
+sans-serif-thin
+
+sans-serif-condensed
+
+sans-serif-medium
+
+notoserif
+
 serif
 
 monospace
