@@ -10,21 +10,33 @@
 #### Android
 
 normal
+
 serif
+
 monospace
 
 #### iOS:
 
 Copperplate
+
  Copperplate-Light
+
  Copperplate
+
  Copperplate-Bold
+
 Heiti SC
+
 Iowan Old Style
+
  IowanOldStyle-Italic
+
  IowanOldStyle-Roman
+
  IowanOldStyle-BoldItalic
+
  IowanOldStyle-Bold
+
 Kohinoor Telugu
  KohinoorTelugu-Regular
  KohinoorTelugu-Medium
