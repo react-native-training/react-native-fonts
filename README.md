@@ -1,6 +1,6 @@
 # Fonts Available in React Native out of the box
 
-##### If I've missed a font, please either comment or submit a pr
+##### If I've missed a font, please submit a pr or an issue
 
 ### To use in project, choose from font below, and then add to style element:
 
