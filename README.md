@@ -2,6 +2,8 @@
 
 ##### If I've missed a font, please submit a pr or an issue
 
+### Here's an [Expo Project ](https://exp.host/@findmory/fontsInRN) that displays a searchable list- with each font displayed in its own font. _The source code is also available [here](https://github.com/findmory/fontsInRN)_
+
 ### To use in project, choose from font below, and then add to style element:
 
 ```
