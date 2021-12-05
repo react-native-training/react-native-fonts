@@ -114,7 +114,6 @@ export default class IosFonts extends Component{
         <Text style={{fontFamily: 'Copperplate'}}>Copperplate </Text>
         <Text style={{fontFamily: 'Copperplate-Bold'}}>Copperplate-Bold </Text>
         <Text style={{fontFamily: 'Copperplate-Light'}}>Copperplate-Light </Text>
-        <Text style={{fontFamily: 'Courier'}}>Courier </Text>
         <Text style={{fontFamily: 'Courier New'}}>Courier New </Text>
         <Text style={{fontFamily: 'Courier-Bold'}}>Courier-Bold </Text>
         <Text style={{fontFamily: 'Courier-BoldOblique'}}>Courier-BoldOblique </Text>
